@@ -8,3 +8,6 @@ This module is commonly sold on deal extreme, aliexpress or eBay, but differs fr
 - pySUNXI library - http://dl.cubieboard.org/software/libs/pySUNXI-0.1.12.tar.gz
 - script.fex (script.bin) modyfication in order to use another GPIO like PG0-PG3
 
+
+#Examples and community:
+https://cubietruck.pl
