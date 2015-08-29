@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # CPU Temp
-# Grabs the RasPi cpu temp and outputs to TM1638 display to 1 decimal place
+# Grabs the Cubietruck cpu temp and outputs to TM1638 display to 1 decimal place
 
 import SUNXI_GPIO as GPIO
 import TM1638
